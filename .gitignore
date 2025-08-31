@@ -1,2 +1,6 @@
-shopper.code-workspace
 docs
+### IntelliJ IDEA ###
+.idea
+*.iws
+*.iml
+*.ipr
