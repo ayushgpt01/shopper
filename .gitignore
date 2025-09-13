@@ -4,3 +4,4 @@ docs
 *.iws
 *.iml
 *.ipr
+.vscode
